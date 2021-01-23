@@ -212,7 +212,7 @@ void Start()
             audioSource.Play();
             audioSource.loop = false;
             rd2d.velocity = Vector3.zero;
-            winloseText.text = "You Win! Game Created By Anna Branch";
+            winloseText.text = "You Win! Press R To Restart";
  
             
 
